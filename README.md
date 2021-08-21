@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jjeremyj
+- 👀 I’m interested in automating trouble identification
+- 🌱 I’m currently learning python
+- 📫 How to reach me ... we'll see.
